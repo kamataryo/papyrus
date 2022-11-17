@@ -1,0 +1,47 @@
+- title: 原色日本陸産貝類図鑑
+  authors: 東正雄
+  publisher: 保育社
+  date_of_publish: 1982-07
+  isbn: 978-4-586-30061-7
+  archive: no
+
+- title: 沖縄の海の貝・陸の貝 - 生態／検索図鑑
+  authors: [久保弘文, 黒住耐二]
+  publisher: 沖縄出版
+  date_of_publish: 1995-08
+  isbn: 978-4900668515
+  archive: no
+
+- title: 京阪神の動物
+  authors: 東正雄
+  publisher: 六月社
+  date_of_publish: 1965-06-15
+  archive:
+    location: 鎌田文庫
+  tags:
+    標準和名: [ギュリキマイマイ, イセノナミマイマイ, ナミマイマイ, ニシキマイマイ, クチベニマイマイ, ハリママイマイ]
+  status:
+    tagging: '入力中'
+
+- title: カタツムリハンドブック
+  printing: 2
+  authors: [西浩孝, 武田晋一]
+  publisher: 文一総合出版
+  date_of_publish: 2017-03-01
+  archive:
+    location: 鎌田文庫
+  tags:
+    標準和名: [ギュリキマイマイ]
+  status:
+    tagging: '入力中'
+
+- title: 山の貝拾い
+  authors: 大垣市金生山化石館
+  journal: 化石館だより
+  volume: 86
+  publisher: 大垣市金生山化石館
+  date_of_publish: 2018-06
+  archive:
+    location: ./raws/大垣市金生山化石館_化石館だより_86.pdf
+  tags:
+    標準和名: [イセノナミマイマイ, ミスジマイマイ, クチベニマイマイ, ミカドギセル, イブキゴマガイ, カドバリニッポンマイマイ]
